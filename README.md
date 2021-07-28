@@ -3,8 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+this project is made up for firebase authentication and for self practising 
 
 A few resources to get you started if this is your first Flutter project:
 
